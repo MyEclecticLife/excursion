@@ -14,3 +14,15 @@ a {
 h1, h2 {
   color: white;
 }
+p {
+  color: gray;
+  font-size: 21px;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+footer {
+  text-align: right;
+  color: gray;
+}
